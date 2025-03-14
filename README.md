@@ -20,10 +20,14 @@ I'm Mateus José de Oliveira Neto
 - **Other Tools**: Excel (Macros), Word, PowerPoint
   
 
-🛠️ Languages and tools
+## 🛠️ Languages and tools
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
+
+
+## 📫 Contact 
+<a href = "mailto:mateusj093@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           
 
 
