@@ -25,18 +25,6 @@ I'm Mateus José de Oliveira Neto
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
 
-
-## 📫 Contact 
-<a href = "mailto:mateusj093@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          
-
-
-        
-          
-          
-  
-          
-
 ---
 
 ## 📚 Education & Certifications  
@@ -48,4 +36,12 @@ I'm Mateus José de Oliveira Neto
 📜 **Web Development (HTML, CSS, JavaScript)** – Integrated Project (2024)  
 📜 **SQL Databases** – Integrated Project (2024)  
 📜 **Programming Logic & Algorithms** – Integrated Project (2023)  
+
+--- 
+
+## 📫 Contact 
+<a href = "mailto:mateusj093@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https:www.linkedin.com/in/mateus-jose-387033180?)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+          
 
