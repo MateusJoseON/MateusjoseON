@@ -20,8 +20,8 @@ I'm Mateus José de Oliveira Neto
 - **Other Tools**: Excel (Macros), Word, PowerPoint
   
 
-🛠️ Languages and tool
-  <img loading ="java" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+🛠️ Languages and tools
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
         
           
           
