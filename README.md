@@ -1,6 +1,7 @@
 Hello! I'm Mateus José de Oliveira Neto  
 
 
+![72uG](https://github.com/user-attachments/assets/0105b07d-f900-4a1a-9a78-dd7823d759f5)
 
 🎓 **Software Development Student** (5th semester - UNICEPLAC)  
 🔍 Looking for opportunities in **IT**, with a focus on **software development, technical support, and project management**.  
